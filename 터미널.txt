@@ -1,0 +1,6 @@
+터미널 지우기 
+ctrl + shift + p  다음 ctrl + k 
+
+npm install -g nodemon 
+
+ctrl + c 노드몬 종료 
